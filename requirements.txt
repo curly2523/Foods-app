@@ -8,3 +8,4 @@ requests
 transformers
 tf-keras
 tensorflow
+fuzzywuzzy 
