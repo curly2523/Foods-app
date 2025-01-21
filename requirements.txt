@@ -1,1 +1,10 @@
 streamlit
+
+numpy
+scikit-learn
+matplotlib
+seaborn
+requests
+transformers
+tf-keras
+tensorflow
